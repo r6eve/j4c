@@ -4,6 +4,7 @@
   :license {:name "Boost Software License - Version 1.0"
             :url "https://www.boost.org/users/license.html"}
   :repositories [["jitpack" "https://jitpack.io"]]
+  ; :resource-paths ["resources/clust4j-1.2.5.jar"]
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [org.clojure/tools.logging "0.5.0"]
                  [com.github.r6eve/clust4j "1.2.5"]
