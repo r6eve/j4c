@@ -8,5 +8,6 @@
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [org.clojure/tools.logging "0.5.0"]
                  [com.github.r6eve/clust4j "1.2.5"]
+                 [org.apache.commons/commons-lang3 "3.11"]
                  [org.apache.commons/commons-math3 "3.6.1"]]
   :repl-options {:init-ns j4c.core})
